@@ -24,6 +24,7 @@ public class StmtView {
 			System.out.println("Q - 프로그램 종료\n");
 			System.out.print("번호를 입력하세요 : ");
 			
+			// git test
 			String inputNum = sc.nextLine();
 			System.out.println();
 			switch (inputNum) {			
